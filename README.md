@@ -2,6 +2,9 @@
 
 **`Desenvolvedor Backend`**
 
+Olá, sou Juan Marques de Morais, do Rio Grande do Sul. Sou apaixonado por tecnologia, que considero fascinante e capaz de mudar o mundo. As inovações tecnológicas não apenas resolvem problemas, mas também conectam pessoas e transformam nossas vidas.
+
+
  </a> 
     <a href="https://github.com/jmoraisx?tab=repositories&sort=stargazers">
         <img 
